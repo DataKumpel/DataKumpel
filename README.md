@@ -55,9 +55,12 @@ flowchart LR
 ## 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,ts,fastapi,django,flask,react,tailwind&perline=9" alt="Languages & frameworks" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,fortran,ts,fastapi,django,flask,react,tailwind&perline=10" alt="Languages & frameworks" />
   <br/>
   <img src="https://skillicons.dev/icons?i=pytorch,postgres,mongodb,sqlite,docker,ansible,linux,gitlab,vim&perline=9" alt="Data, DevOps & tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
 </p>
 
 ---
