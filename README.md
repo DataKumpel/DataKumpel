@@ -10,7 +10,7 @@
 
 ---
 
-## ⚛️ The Lagrangian of my career
+## ⚛️ My Lagrangian
 
 $$
 \mathcal{L}_{\text{Thomas}} = \underbrace{\text{Physics}}_{\text{foundation}} + \underbrace{\text{Python}}_{\text{expertise}} + \underbrace{\text{C++ / Rust}}_{\text{performance}} + \underbrace{\text{Teaching}}_{\text{passion}}
@@ -29,6 +29,7 @@ flowchart LR
 
 ## 🔭 What I'm currently into
 
+- 🕹️ **My Own Game Engine** - Raylib as the base, carrying a retro kingsfield-like game implemented in Rust.
 - 📄 **Documind** – PDFs in, structured JSON out, powered by a **locally hosted LLM** instead of the cloud
 - 🦀 **SealSoft Author** – a writing app for the terminal, built entirely in Rust
 - 🎤 Teaching Python – from the first `print()` all the way to `asyncio`
